@@ -1,1 +1,32 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+   <Set>
+      <SerialNo>1</SerialNo>
+      <Name>Profile</Name>
+   </Set>
+   <Set>
+      <SerialNo>2</SerialNo>
+      <Name>Work</Name>
+      <Entities>
+         <Unit>Jobs</Unit>
+      </Entities>
+   </Set>
+   <Set>
+      <SerialNo>3</SerialNo>
+      <Name>Buy</Name>
+      <Entities>
+         <Unit>Lodging</Unit>
+         <Unit>Transport</Unit>
+         <Unit>Buisness Space</Unit>
+         <Unit>Items</Unit>
+      </Entities>
+   </Set>
+   <Set>
+      <SerialNo>4</SerialNo>
+      <Name>Learn</Name>
+      <Entities>
+         <Unit>Education</Unit>
+         <Unit>Special Skills</Unit>
+      </Entities>
+   </Set>
+</Root>
